@@ -17,5 +17,19 @@ p{
 	}
 .id_selector{
 		color:red;
-		bavf
-		
+		background-color:black;
+		padding:10px;
+		border-radius:10px;
+	    }
+.class-selector{
+		color:orange;
+		background-color:dark grey;
+		padding:10px;
+		border-radius:10px;
+		}
+#unique-id{
+		color:purple;
+		background-color:light blue;
+		padding:10px;
+		border-radius:10px;
+}
